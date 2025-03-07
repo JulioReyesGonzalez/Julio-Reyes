@@ -1,1 +1,3 @@
+#Crear un String con los lenguajes de programacion en lineas separadas
 
+lenguajes = "Python. Java Script. PHP. TypeScript. SQL COBOL: C++. Ruby."
