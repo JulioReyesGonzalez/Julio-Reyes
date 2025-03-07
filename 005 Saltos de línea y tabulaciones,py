@@ -1,3 +1,8 @@
 #Crear un String con los lenguajes de programacion en lineas separadas
 
-lenguajes = "Python. Java Script. PHP. TypeScript. SQL COBOL: C++. Ruby."
+lenguajes = "Python.\nJavaScript.\nPHP.\nTypeScript.\nSQL\nCOBOL.\nC++.\nRuby."
+print(lenguajes)
+
+#\n es un carácter de escape que representa un salto de línea (nueva línea).
+#¿Cómo funciona?
+#Cuando se encuentra \n en una cadena, el texto que le sigue se imprime en una nueva línea.
