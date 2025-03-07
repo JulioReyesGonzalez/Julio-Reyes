@@ -2,7 +2,7 @@
 # Julio Reyes
 
 #Variables con mensaje
-mensaje= "Bienvenidos a el curso de python"
+mensaje = "Bienvenidos a el curso de python"
 print(mensaje)
 
 #variables numericas
